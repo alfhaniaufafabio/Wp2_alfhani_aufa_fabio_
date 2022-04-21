@@ -1,9 +1,9 @@
 # WP2_TugasPertemuan6
 HASIL OUTPUT :
 
-hasil_input_data_Formsiswa.png
+hasil_input_data_formsiswa.JPG
 
-isi_input_data_Formsiswa2.png
+isi_input_data_formsiswa.JPG
 
 File Yang Ditambahkan Sebagai Berikut :
 
