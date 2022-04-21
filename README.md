@@ -1,7 +1,12 @@
-# WP2_Perpus_TugasPertemuan5
+# WP2_TugasPertemuan6
+HASIL OUTPUT :
+
+Output-Dari-Formsiswa.png
+
+Output-Dari-Formsiswa2.png
 
 File Yang Ditambahkan Sebagai Berikut :
 
-pustaka-booking/Application/config = autoload.php, database.php
+pustaka-booking/Application/Controller = Formsiswa.php
 
-pustaka-booking/Application/Models = ModelUser.php, ModelBuku.php
+pustaka-booking/Application/Views = view-data-siswa.php, view-form-siswa.php
